@@ -1,5 +1,9 @@
 # Actividad 2.4 — Experimentación con medidas de seguridad en el código
 
+## Demo en vivo
+
+https://asn-actividad24-386667115489.europe-west1.run.app/ (temporal)
+
 ## Objetivo
 
 Aplicación PHP para experimentar con controles de seguridad habituales. Contiene versiones intencionadamente vulnerables y alternativas protegidas, de forma que se puedan observar sus diferencias.
