@@ -19,7 +19,6 @@ Aplicación PHP para experimentar con controles de seguridad habituales. Contien
 - PDO con SQLite para el experimento de inyección SQL
 - HTML y CSS sencillos
 - Docker
-- Despliegue previsto: Docker Hub y Google Cloud Run
 
 ## Experimentos incluidos
 
