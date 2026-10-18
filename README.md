@@ -61,7 +61,7 @@ Abrir `http://localhost:8080`. El volumen `asn-lab-data` conserva la base de dat
 - **XSS:** abrir el ejemplo con el valor por defecto. La versión vulnerable intenta ejecutar un `alert`; la protegida debe mostrar la cadena como texto.
 - **CSRF:** enviar el formulario normal y después alterar o eliminar `csrf_token` con las herramientas de desarrollo del navegador. El servidor debe rechazarlo con HTTP 403.
 
-## Direcciones web
+## Enlaces a los repositorios
 
 - [Docker Hub](https://hub.docker.com/r/jmcc0049/asn-actividad24)
 - [Repositorio GitHub](https://github.com/jmcc0049/asn2026_actividad24)
