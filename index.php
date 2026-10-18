@@ -67,8 +67,8 @@ $pdoDrivers = implode(', ', PDO::getAvailableDrivers()) ?: 'ninguno';
 </section>
 <section class="panel">
   <h2>Uso responsable</h2>
-  <p class="notice">Las rutas vulnerables son pruebas educativas intencionadas. No introduzcas datos reales, no expongas estas rutas a Internet y no reutilices el código vulnerable en producción.</p>
-  <p>Consulta el <code>README.md</code> para instrucciones de ejecución, publicación de la imagen y despliegue en Google Cloud Run.</p>
+  <p class="notice">Las rutas vulnerables son pruebas educativas intencionadas. Por tanto, no introduzcas datos reales, no expongas estas rutas a Internet y no reutilices el código vulnerable en producción.</p>
+  <p>Consulta el <code>README.md</code> para las instrucciones de ejecución.</p>
 </section>
 </body>
 </html>
